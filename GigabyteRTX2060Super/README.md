@@ -1,4 +1,4 @@
-# Gigabyte 2060 Super
+# Gigabyte RTX 2060 Super
 
 ## Stock specifications
 

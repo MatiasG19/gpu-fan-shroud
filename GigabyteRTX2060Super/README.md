@@ -11,3 +11,4 @@
 
 - 3 Noctua NF-A9 PWM chromax.black.swap
 - Arctic 4-Pin PWM Fan Splitter Cable (to daizy cain the fans)
+- 4 black fan screws

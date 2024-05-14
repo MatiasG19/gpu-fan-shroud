@@ -7,8 +7,10 @@
 
 |                 |                                                 |
 | --------------- | ----------------------------------------------- |
-| GPU model       | Gigabyte GeForce RTX 2060 SUPER GAMING OC 3X 8G |
+| GPU model       | [Gigabyte GeForce RTX 2060 SUPER GAMING OC 3X 8G](https://www.gigabyte.com/Graphics-Card/GV-N206SGAMING-8GC) |
 | Stock fan count | 3                                               |
+
+![](./pictures/gigabtyRtx2060Super.png)
 
 ## Bill of materials
 

@@ -1,4 +1,4 @@
-# Gigabyte 2060 Super
+# Gigabyte RTX 2060 Super
 
 ## Stock specifications
 
@@ -9,5 +9,9 @@
 
 ## Bill of materials
 
-- 3 Noctua NF-A9 PWM
+- 3 Noctua NF-A9 PWM chromax.black.swap
 - Arctic 4-Pin PWM Fan Splitter Cable (to daizy cain the fans)
+- 4 black fan screws
+
+![top.png](./pictures/top.png)
+![bottom.png](./pictures/bottom.png)
